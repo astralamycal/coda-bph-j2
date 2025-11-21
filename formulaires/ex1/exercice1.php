@@ -1,0 +1,1 @@
+<p>You wrote <?= $_GET["search"] ?></p>
